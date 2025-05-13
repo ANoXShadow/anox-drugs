@@ -1,0 +1,106 @@
+{
+    "markers": {
+        "gather": {
+            "loop_start": "[E] - Start Gathering %s\n[H] - Cancel",
+            "single_start": "[E] - Gather %s"
+        },
+        "process": "[E] - Process %s",
+        "package": "[E] - Package %s",
+        "teleport": {
+            "enter": "[E] - Enter %s Lab",
+            "enter_with_requirement": "[E] - Enter %s Lab\n[Required: %s]",
+            "exit": "[E] - Exit %s Lab"
+        }
+    },
+    "notifications": {
+        "entry_blocked": {
+            "title": "Entry Blocked",
+            "description": "You need a %s to enter"
+        },
+        "gathering": {
+            "cannot_gather": {
+                "title": "Gathering Stopped",
+                "description": "Cannot gather more items"
+            },
+            "stopped": {
+                "title": "Gathering Stopped",
+                "description": "You stopped gathering %s"
+            },
+            "left_area": {
+                "title": "Gathering Stopped",
+                "description": "You left the gathering area"
+            },
+            "cancelled": {
+                "title": "Gathering Cancelled",
+                "description": "You stopped gathering %s"
+            },
+            "inventory_full": {
+                "title": "Inventory Full",
+                "description": "Cannot carry more raw drugs"
+            },
+            "complete": {
+                "title": "Gathering Complete",
+                "description": "You gathered %d %s"
+            }
+        },
+        "processing": {
+            "failed": {
+                "title": "Processing Failed",
+                "description": "Invalid drug type"
+            },
+            "insufficient_materials": {
+                "title": "Processing Failed",
+                "description": "You need at least %d %s"
+            },
+            "inventory_full": {
+                "title": "Inventory Full",
+                "description": "Cannot carry more processed drugs"
+            },
+            "cancelled": {
+                "title": "Processing Cancelled",
+                "description": "You stopped processing %s"
+            },
+            "complete": {
+                "title": "Processing Complete",
+                "description": "You processed %d %s"
+            }
+        },
+        "packaging": {
+            "failed": {
+                "title": "Packaging Failed",
+                "description": {
+                    "invalid_type": "Invalid packaging type",
+                    "insufficient_processed_drug": "You need at least %d %s ",
+                    "insufficient_packaging_material": "You need at least %d %s "
+                }
+            },
+            "inventory_full": {
+                "title": "Inventory Full",
+                "description": "Cannot carry more packaged drugs"
+            },
+            "cancelled": {
+                "title": "Packaging Cancelled", 
+                "description": "You stopped packaging %s"
+            },
+            "complete": {
+                "title": "Packaging Complete",
+                "description": "You packaged %d %s"
+            }
+        }
+    },
+    "progress": {
+        "gathering": "Gathering %s",
+        "processing": "Processing %s",
+        "packaging": "Packaging %s"
+    },
+    "blips": {
+        "coke_lab": "Cocaine Lab",
+        "weed_lab": "Weed Lab",
+        "heroin_lab": "Heroin Lab"
+    },
+    "errors": {
+        "not_enough_items": "Not enough items",
+        "inventory_full": "Inventory is full",
+        "invalid_drug_type": "Invalid drug type"
+    }
+}
