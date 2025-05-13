@@ -71,63 +71,64 @@
 
 ---
 
+## ✨ Screenshots
+
 <details>
   <summary>Processing Weed Leaves</summary>
-  ![processing_weed_leaves](https://github.com/user-attachments/assets/23b83b96-2e82-4ea0-9977-4e253e2b21eb)
+  <img src="https://github.com/user-attachments/assets/23b83b96-2e82-4ea0-9977-4e253e2b21eb" width="100%">
 </details>
 
 <details>
   <summary>Processing Raw Opium</summary>
-  ![processing_raw_opium](https://github.com/user-attachments/assets/beabac4a-37f7-4641-be0a-0d09670fd243)
+  <img src="https://github.com/user-attachments/assets/beabac4a-37f7-4641-be0a-0d09670fd243" width="100%">
 </details>
 
 <details>
   <summary>Processing Coca Leaves</summary>
-  ![processing_coca_leaves](https://github.com/user-attachments/assets/e6cf63c9-56e3-418f-a323-d9300ec7bf14)
+  <img src="https://github.com/user-attachments/assets/e6cf63c9-56e3-418f-a323-d9300ec7bf14" width="100%">
 </details>
 
 <details>
   <summary>Packaging Weed Powder</summary>
-  ![package_weed_powder](https://github.com/user-attachments/assets/9f3d1f75-58b0-4126-9d8a-6c2e827dbce4)
+  <img src="https://github.com/user-attachments/assets/9f3d1f75-58b0-4126-9d8a-6c2e827dbce4" width="100%">
 </details>
 
 <details>
   <summary>Packaging Heroin Powder</summary>
-  ![package_heroin_powder](https://github.com/user-attachments/assets/168473bd-88f5-471c-b284-acfe204d3729)
+  <img src="https://github.com/user-attachments/assets/168473bd-88f5-471c-b284-acfe204d3729" width="100%">
 </details>
 
 <details>
   <summary>Packaging Cocaine Powder</summary>
-  ![package_cocaine_powder](https://github.com/user-attachments/assets/b17c53a9-88da-4fa0-a770-3da33d41dd2e)
+  <img src="https://github.com/user-attachments/assets/b17c53a9-88da-4fa0-a770-3da33d41dd2e" width="100%">
 </details>
 
 <details>
   <summary>Loop Gathering Coca Leaves</summary>
-  ![loop_gather_coca_leaves](https://github.com/user-attachments/assets/29bf2ae8-f8d5-4b7a-96d0-b09517c6592a)
+  <img src="https://github.com/user-attachments/assets/29bf2ae8-f8d5-4b7a-96d0-b09517c6592a" width="100%">
 </details>
 
 <details>
   <summary>Gathering Weed Leaves</summary>
-  ![gather_weed_leaves](https://github.com/user-attachments/assets/6209b2f8-a35f-486e-89fb-1455e0b05b7b)
+  <img src="https://github.com/user-attachments/assets/6209b2f8-a35f-486e-89fb-1455e0b05b7b" width="100%">
 </details>
 
 <details>
   <summary>Gathering Raw Opium</summary>
-  ![gather_raw_opium](https://github.com/user-attachments/assets/9cf6dd08-da19-4b4c-9b51-20238439e7ef)
+  <img src="https://github.com/user-attachments/assets/9cf6dd08-da19-4b4c-9b51-20238439e7ef" width="100%">
 </details>
 
 <details>
   <summary>Exiting Lab</summary>
-  ![exit_lab](https://github.com/user-attachments/assets/a571ab1c-3bfb-4753-bb68-80769f8d77b7)
+  <img src="https://github.com/user-attachments/assets/a571ab1c-3bfb-4753-bb68-80769f8d77b7" width="100%">
 </details>
 
 <details>
   <summary>Entering Lab (Without Requirements)</summary>
-  ![enter_lab_without_requirements](https://github.com/user-attachments/assets/deaf4a62-0f2e-41b0-a3a3-2bd698e53045)
+  <img src="https://github.com/user-attachments/assets/deaf4a62-0f2e-41b0-a3a3-2bd698e53045" width="100%">
 </details>
 
 <details>
   <summary>Entering Lab (With Requirements)</summary>
-  ![enter_lab_with_requirements](https://github.com/user-attachments/assets/99f73718-f2c9-4bd6-8315-b495119d1076)
+  <img src="https://github.com/user-attachments/assets/99f73718-f2c9-4bd6-8315-b495119d1076" width="100%">
 </details>
-
