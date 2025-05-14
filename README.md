@@ -40,7 +40,7 @@
 - On-screen prompts to guide player actions.
 - Distinct markers for different stages (gathering, processing, packaging).
 
-### 🗺️ Fully Integrated with the Game World
+### 🗺️ Blips&Markers
 - Add map blips for drug spots.
 - Customize marker colors, types, and sizes.
 - Place drug activities anywhere on the map.
